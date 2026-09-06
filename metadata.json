@@ -1,0 +1,8 @@
+{
+  "name": "BATISTOCK - Gestion de Stock & Équipements de Chantier",
+  "description": "Construction equipment & jobsite inventory management software with site manager category configuration, real-time material flow monitoring, and safety threshold alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
